@@ -1,4 +1,4 @@
-#🥕 Local Veggie Market
+🥕 Veggie at home 
 
 Local Veggie Market is a front-end web application that simulates a local vegetable marketplace connecting customers, vendors, and delivery partners. It demonstrates role-based dashboards, a simple login flow, ordering logic, and a modern responsive UI — all built using HTML, CSS, and JavaScript (client-side only).
 
@@ -62,7 +62,7 @@ Font Awesome (Icons via CDN)
 1. Clone or Download
 Copy code
 Bash
-git clone https://github.com/your-username/local-veggie-market.git
+git clone https://github.com/Keshav-cmd/VeggieAtHome.git
 Or simply download the HTML file.
 2. Open in Browser
 Open the main HTML file directly:
